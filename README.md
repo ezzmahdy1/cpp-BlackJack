@@ -13,18 +13,18 @@ A terminal-based Blackjack game written in C++ featuring betting mechanics, deal
 ## Gameplay photos
 
 <p align="center">
-  <img src="gameplay-images/Screenshot%20(25).png" width="45%">
-  <img src="gameplay-images/Screenshot%20(26).png" width="45%">
+  <img src="gameplay-images/Screenshot(25)%20.png" width="45%">
+  <img src="gameplay-images/Screenshot(26)%20.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="gameplay-images/Screenshot%20(27).png" width="45%">
-  <img src="gameplay-images/Screenshot%20(28).png" width="45%">
+  <img src="gameplay-images/Screenshot(27)%20.png" width="45%">
+  <img src="gameplay-images/Screenshot(28)%20.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="gameplay-images/Screenshot%20(29).png" width="45%">
-  <img src="gameplay-images/Screenshot%20(30).png" width="45%">
+  <img src="gameplay-images/Screenshot(29)%20.png" width="45%">
+  <img src="gameplay-images/Screenshot(30)%20.png" width="45%">
 </p>
 
 <p align="center">
