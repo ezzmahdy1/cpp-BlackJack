@@ -1,6 +1,6 @@
 # Blackjack in C++
 
-A terminal-based Blackjack game written in C++ featuring betting mechanics, dealer AI, and ASCII card graphics.
+A terminal-based Blackjack game written in C++ featuring betting mechanics, AI dealer , and ASCII card graphics.
 
 ## Features
 
