@@ -24,10 +24,6 @@ A terminal-based Blackjack game written in C++ featuring betting mechanics, deal
 
 <p align="center">
   <img src="gameplay-images/Screenshot(29).png" width="45%">
-  <img src="gameplay-images/Screenshot(30).png" width="45%">
-</p>
-
-<p align="center">
   <img src="gameplay-images/Screenshot(31).png" width="45%">
 </p>
  
