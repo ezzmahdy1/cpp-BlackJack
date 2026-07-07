@@ -16,9 +16,9 @@ A terminal-based Blackjack game written in C++ featuring betting mechanics, AI d
 ### v1.0-inital release
 
 ### v1.1-code refactor
--Separated classes into dedicated .h and .cpp files.
--Improved code organization and readability.
--Made the project easier to maintain and extend.
+- Separated classes into dedicated .h and .cpp files.
+- Improved code organization and readability.
+- Made the project easier to maintain and extend.
 
 ## Gameplay photos
 
