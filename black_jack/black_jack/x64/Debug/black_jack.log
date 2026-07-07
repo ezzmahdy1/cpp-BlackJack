@@ -1,0 +1,10 @@
+﻿  black_jack.cpp
+C:\zero\black_jack\black_jack\black_jack.cpp(14,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  cards.cpp
+C:\zero\black_jack\black_jack\cards.cpp(42,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\zero\black_jack\black_jack\cards.cpp(73,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\zero\black_jack\black_jack\cards.cpp(216,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\zero\black_jack\black_jack\cards.cpp(217,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  funct.cpp
+  Generating Code...
+  black_jack.vcxproj -> C:\zero\black_jack\black_jack\x64\Debug\black_jack.exe
